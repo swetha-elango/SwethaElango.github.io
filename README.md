@@ -12,11 +12,8 @@ This is my **personal portfolio website**, built using a **pre-designed template
 - **Contact Section** – Direct links to LinkedIn, GitHub, and Email for networking opportunities.  
 
 
-## 📸 Preview  
-![Portfolio Preview](path-to-image/portfolio-screenshot.png)  
-
 ## 🚀 Live Demo  
-Check out my portfolio here: **[Live Website](your-portfolio-url.com)**  
+Check out my portfolio here: **[Live Website](https://swetha-elango.github.io/portfolio/)**  
 
 
 ---
